@@ -62,7 +62,7 @@ Atomic elements stratify into nested zones. Higher-density elements seek deeper 
 - **Field geometry** defines how energy flows and supports mass distribution  
 - **Atomic identity** sets each object’s natural “level”  
 - **Weight** is just a reaction to prevented collapse  
-
+-- **Atomic density** in this framework refers to atomic structure, not just mass-per-volume. It includes atomic number, field response, and layering behavior in containment.
 ---
 
 ## 🔷 Proof of Superior Mechanism
