@@ -1,3 +1,13 @@
+## Priority & Origination Statement
+
+**Unified Quantum Life Theory (UQLT)**  
+**Originator**: Clayton [Your Full Name With Middle Name]  
+**Core Mechanisms Developed**: Starting June 20, 2025  
+**Unified Equation Formalized**: February 17–18, 2026  
+**Public Repository Established**: February 23–24, 2026  
+**This Statement Dated**: April 11, 2026
+
+This repository contains the complete public record of the original UQLT model. All work is protected under the Berne Convention. The dated files establish origination priority.
 # Unified-Quantum-Life-Theory
 Original scientific theory and documentation authored by Clayton Andrew Houghland.
 # Unified Quantum Life Theory (UQLT)
