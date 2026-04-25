@@ -20,7 +20,7 @@ Authorship, structure, and conceptual framework are asserted as original intelle
 
 Initial public timestamp established via GitHub repository creation and commit history.
 
-Date of first publication: April 11, 2026
+**Date of first publication**: April 11, 2026
 
 ---
 
